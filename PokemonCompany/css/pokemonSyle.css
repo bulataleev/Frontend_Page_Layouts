@@ -1,0 +1,75 @@
+body{
+/*    padding: 10px;*/
+    padding-bottom: 20px;
+/*    background-color: #5a5a5a5a;*/
+}
+.navbar-wrapper{
+    position: absolute;
+    top:0;
+    right: 0;
+    left:0;
+    z-index: 20; /* on top of all elements remeber 20*/
+}
+.navbar-wrapper .container .navbar {
+    width: auto;
+}
+.navbar-wrapper .navbar{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.carousel{
+    height: 500px;
+    margin-bottom: 50px;
+}
+
+.carousel .item{
+    height: 500px;
+}
+
+.carousel-inner > .item> img{
+    position: absolute;
+    height: 800px;
+    min-width: 100%;
+    top: 0;
+    left: 0;
+    
+}
+.team .col-lg-4{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.team .h2{
+    color: rgba(50,50,50,50, 0.9);
+}
+.team .p{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.divider{
+    margin: 30px 0;
+}
+.content{
+    margin-bottom: 20px;
+}
+.frowContent{
+    padding-left: 70px;
+    text-align: center;
+    padding-top: 50px;
+    margin-bottom: 40px;
+}
+.content .srowContent2{
+/*    background-color: aqua;*/
+    text-align: center;
+    padding-top: 70px;
+    padding-right: 25px;
+/*    padding-left: -50px;*/
+}
+.image2{
+    margin-top: 40px;
+    margin-right: -40px;
+}
+footer{
+/*    margin: 0 110px;*/
+/*    padding-right: -100px;*/
+}

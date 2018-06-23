@@ -1,0 +1,31 @@
+body{
+/*    background-color: antiquewhite;*/
+    font-family: 'Roboto', sans-serif;
+}
+.nav-sidebar{
+    margin: 80px -20px 20px 20px;
+}
+
+.nav-sidebar > li > a{
+    padding: 20px 20px;
+}
+.mainContent{
+/*    padding-top: 10px; */
+    margin-top: 50px;
+    margin-bottom: 50px;
+/*    background-color: lightgray;*/
+}
+.placeholders{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.placeholder{
+    margin-bottom: 20px;
+}
+.placeholder img{
+    display: inline;
+}
+footer{
+    padding-bottom: 25px;
+}
+

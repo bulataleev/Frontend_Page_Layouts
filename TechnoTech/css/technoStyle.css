@@ -1,0 +1,33 @@
+html{
+    height: 100%;
+}
+
+.navbar-default .navbar-brand{
+   color: forestgreen;
+}
+.navbar {
+    border-radius: 0;
+}
+body{
+    background: url("https://images.pexels.com/photos/6482/black-and-white-man-person-hands.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-size: cover;
+    background-position: center;
+    font-family: Catamaran;
+}
+.center{
+    text-align: center;
+    color: azure;
+/*    padding-top: 5%;*/
+}
+h1,p{
+    color: aliceblue;
+    text-align: center;
+}
+/*
+@media (max-width:768px){
+    h1{
+        background-color: antiquewhite;
+    }
+}
+*/
+

@@ -1,0 +1,32 @@
+body{
+    padding-top: 20px;
+    
+}
+.nav-justified{
+    background-color: #eee;
+}
+.nav-justified > li > a{
+    padding: 15px 0;
+    color: #777;
+    text-align: center;
+    background-color: #e5e5e5;
+}
+.jumbotron{
+    text-align: center;
+    background-color: transparent;
+    margin-bottom: -20px;
+}
+.jumbotron .btn{
+    text-align: center;
+    padding: 15px 30px;
+}
+.divider{
+/*    margin-top: -35px;*/
+}
+.col-lg-4 > p{
+    text-align: center;
+}
+footer{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
